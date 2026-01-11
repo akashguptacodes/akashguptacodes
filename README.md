@@ -55,7 +55,6 @@ With a strong problem-solving mindset, I love experimenting with new tools, fram
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40"/>
 
   <!-- Frontend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/>
@@ -74,10 +73,6 @@ With a strong problem-solving mindset, I love experimenting with new tools, fram
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40"/>
-
-  <!-- AI/3D Tools -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Gemini_logo.svg" alt="Gemini" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/WebGL_Logo.svg" alt="WebGL" width="40"/>
 </p>
 ---
 
